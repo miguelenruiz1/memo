@@ -1,0 +1,7 @@
+name: trasinv
+type: theme
+description: "Tema de la compañia trasinv"
+core: 8.x
+package: custom
+version: 1.0
+base theme: bootstrap

@@ -1,0 +1,14 @@
+name: Flag Search API
+description: 'Search API support for flag module'
+# core: 8.x
+type: module
+package: Search
+configure: flag_search_api.admin
+dependencies:
+  - flag
+  - search_api
+# Information added by Drupal.org packaging script on 2017-02-18
+version: '8.x-1.2'
+core: '8.x'
+project: 'flag_search_api'
+datestamp: 1487424786
